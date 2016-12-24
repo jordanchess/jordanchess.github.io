@@ -12,7 +12,7 @@ LTEM takes advantage of the fact that electrons passing through a magnetic field
 In addition to this qualitative information I also use transport-of-intensity equation (TIE) and/or iterative wave reconstruction techniques applied to images taken at multiple defocus values to determine the phase of the electron wave function exiting the sample from this phase we can quantitatively determine the local magnetic field integrated through the thickness of the sample, like that shown below.
 
 <figure>
-    <img src="LTEM_SITIE.png">
+    <img src="img/LTEM_SITIE.png">
     <figcaption>
     (a) A Fresnel-contrast LTEM image of the domains present in an \[Fe (3.4Å) / Gd (4Å) / Fe (3.4Å) / Pt (0.25Å) / Ir (0.75Å)\]×80 multilayer film.
     (b) The local magnetic induction integrated though the sample thickness calculated using a <a href="https://arxiv.org/abs/1608.06000">single image transport of intensity equation</a>.
