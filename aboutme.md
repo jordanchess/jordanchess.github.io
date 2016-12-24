@@ -14,7 +14,7 @@ In addition to this qualitative information I also use transport-of-intensity eq
 <figure>
     <img src="../img/LTEM_SITIE.png">
     <figcaption>
-    (a) A Fresnel-contrast LTEM image of the domains present in an \[Fe (3.4Å) / Gd (4Å) / Fe (3.4Å) / Pt (0.25Å) / Ir (0.75Å)\]×80 multilayer film.
+    (a) A Fresnel-contrast LTEM image of the domains present in an [Fe (3.4Å) / Gd (4Å) / Fe (3.4Å) / Pt (0.25Å) / Ir (0.75Å)]×80 multilayer film.
     (b) The local magnetic induction integrated though the sample thickness calculated using a <a href="https://arxiv.org/abs/1608.06000">single image transport of intensity equation</a>.
     Color/arrows indicate the strength and magnitude of the magnetic field (see color scale wheel).
     Scale bar 2 µm.
