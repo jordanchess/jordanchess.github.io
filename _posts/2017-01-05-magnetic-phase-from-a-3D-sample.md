@@ -1,3 +1,4 @@
+---
 layout: post
 title: Calculation of magnetic phase shift from a 3D sample
 subtitle: Following the method of <a href="http://www.sciencedirect.com/science/article/pii/S0304399113000764"> Humphrey <i>et al.</i></a>
