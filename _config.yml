@@ -28,7 +28,7 @@ navbar-links:
     - Google Schollar: "https://scholar.google.com/citations?user=akmy0gUAAAAJ&hl=en"
     - McMorran Lab: "http://pages.uoregon.edu/mcmorran/"
     - McMorran Lab GitHub: "https://github.com/McMorranLab"
-  
+
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 #avatar: "/img/avatar-icon.png"
@@ -79,7 +79,7 @@ footer-links-active:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
