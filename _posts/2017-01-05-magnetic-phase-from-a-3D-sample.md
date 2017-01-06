@@ -8,9 +8,11 @@ There are a few ways to calculate the magnetic phase shift of a 3D magnetization
 
 To start with the phase shift from a single sphere in Fourier space, from Humphrey *et al.* eq. H(8) is,
 
-\$$
+{% raw %}
+$$
 \varphi_m(k_z,k_y)=\frac{3 \pi \mathrm{i} B_0 V}{R\Phi_0}\frac{j_1(k_{\perp} R)}{k_{\perp}^{3}}(\boldsymbol{\mathbf{\hat{\mu}}}\times \mathbf{k})|_z.
 $$
+{% endraw %}
 
 Above {% raw %}\(B_0\){% endraw %} is the saturation induction (\\(B_0 = \mu_0 M_s\\)), \\(V\\) is the volume of the sphere, \\(R\\) is the radius of the sphere on the cubic lattice (\\(R=a\left(\frac{6}{\pi} \right)^{1/3} \approx 1.2407a\\)) here \\(a\\) is the lattice constant, \\(\Phi_0\\) is the flux quantum \\(h/2e = 2070 \text{T nm}^2\\), \\(j_1(x) = \frac{\sin(x)}{x^2}-\frac{\cos(x)}{x}\\) is the first spherical Bessel function of the first kind, \\(\mathbf{k}\\) is the Fourier frequency vector (\\(k_x, k_y\\) and \\(k_{\perp}\\) are the components and magnitude of \\(\mathbf{k}\\) in the plane normal to the projection direction (\\(\boldsymbol{\mathbf{\hat{\omega}}}\\)) ), and \\(\boldsymbol{\mathbf{\hat{\mu}}} \\) is the normalized magnetization unit vector expressed in the beams coordinate system. This can be further reduced by splitting up the geometric portion (invariant under rotation) with the magnetic portion to yield H(10)
 
