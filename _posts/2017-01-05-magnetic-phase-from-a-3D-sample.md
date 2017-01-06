@@ -4,9 +4,9 @@ title: Calculation of magnetic phase shift from a 3D sample.
 subtitle: Following the method of <a href="http://www.sciencedirect.com/science/article/pii/S0304399113000764"> Humphrey <i>et al.</i></a>
 ---
 <head>
-  <script type="text/javascript"
-          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
+<script type="text/javascript" async
+src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 </head>
 
 There are a few ways to calculate the magnetic phase shift of a 3D magnetization configuration. One that is particularly tailored to calculation of tilted samples is the algorithm proposed by Humphrey and De Grafe. The idea behind their algorithm is to treat each voxel of the sample as if it were a sphere with constant magnetization. The Aharonov-Bohm phase shift caused by a sphere with constant magnetization is known analytically, so the full phase shift can be calculated as the sum of each of the individual voxels.
