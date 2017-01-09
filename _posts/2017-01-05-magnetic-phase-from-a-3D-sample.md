@@ -41,5 +41,5 @@ $$
 A Jupyter notebook demonstrating the use of my python implementation of this algorithm can be found [here](https://github.com/jordanchess/LTEM_tools/blob/master/notebooks/Calculating%20A-B%20phase%20shift%20from%20a%203D%20magnetic%20sample.ipynb). Below is a video of the in-plane (perpendicular to the electron beam) magnetic induction of a spherical particle approximated by 29080 individual spherical voxels rotating 360° about the $$y$$-axis.
 
 <figure class="video_container">
-  <iframe src="../video/magnetized_sphere.webm" allowfullscreen="true" width="420" height="420"> </iframe>
+  <iframe src="../video/magnetized_sphere.mp4" allowfullscreen="true" width="420" height="420"> </iframe>
 </figure>
